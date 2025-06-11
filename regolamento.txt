@@ -1,0 +1,16 @@
+L'attaccante annuncia con quante armate vuole attaccare (max3) ed il difensore decide
+con quante armate vuole difendersi (max3). Ogni armata corrisponde ad un dado.
+Quando i due giocatori hanno lanciato i dadi, si confrontano i punteggi ottenuti in base al seguente criterio:
+• Il dado con il punteggio più alto ottenuto dall’attaccante
+si confronta con il punteggio più alto del difensore.
+• Se è maggiore il punteggio dell’attaccante, il difensore
+dovrà togliere dal territorio attaccato una delle sue armate (riponendola fra quelle in dotazione). In caso contrario,
+sarà l’attaccante a dover ritirare una delle sue armate dal
+territorio dal quale ha sferrato l’attacco. • In caso di pareggio vince sempre il difensore.
+• Se entrambi hanno lanciato più di un dado si confronta il
+secondo punteggio più alto dell’attaccante con il secondo
+punteggio più alto del difensore seguendo la stessa procedura.
+• Se entrambi hanno lanciato 3 dadi, si confronta anche il
+terzo punteggio più alto dell’attaccante con il terzo punteggio più alto del difensore seguendo la stessa procedura.
+I punteggi non si sommano mai, si confrontano in ordine
+di grandezza.  REGOLAMENTO ESTRATTO DAL SITO https://risiko.it/
